@@ -1,0 +1,37 @@
+table,td{ 
+    margin: auto;
+    border-collapse: collapse;
+  }
+
+  table{
+    
+    width:90%;
+    min-height: 600px;
+  }
+
+  #A1{
+    height: 150px;
+    text-align: center;
+    background-color: lightgreen;
+    vertical-align: middle;
+    font-size: xx-large;
+    font-family: algerian;
+    font-weight: bold;
+
+  }
+  #A2{
+    width: 100px;
+    text-align: center;
+    background-color: lightblue;
+    vertical-align: top;
+  }
+
+  #A3{
+    background-color: lightpink;
+    vertical-align: top;
+  }
+
+  body{
+    background-image: url(lights.jpg);
+  }
+  
